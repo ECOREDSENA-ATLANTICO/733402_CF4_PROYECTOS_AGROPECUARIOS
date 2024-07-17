@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 66%
+    right: 82%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 60%
+    right: 5%
+  &-3
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 82%
 
 @keyframes float1
   0%
@@ -17,3 +21,264 @@
 
   100%
     transform: translateY(0px)
+
+
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/fondo-banner.svg)  !important  
+
+.fnd-1
+  background-color: #FFD5B8
+.fnd-2
+  background-color: #B3E6FF
+.fnd-3
+  &-1
+    border: 6px solid #02DD84
+  &-2
+    border: 6px solid #38B6FF    
+  border-radius: 2rem
+  padding: 4px
+  height: auto
+  min-height: 380px
+  margin: 10px  
+  position: relative
+  p
+    font-size: 0.9rem
+  .fl-box-img
+    position: absolute
+    top: 0
+    right: -16px
+    transform: translateX(14%)
+    width: auto
+    height: auto
+    background-color: #eff5d600
+    color: #fff
+    padding: 20px
+    z-index: 3
+.fnd-4 
+  background-image: url(../assets/curso/temas/tema1/fnd-1.svg)
+  background-repeat: no-repeat      
+  background-position: bottom center
+  background-size: auto
+  background-repeat: no-repeat
+  overflow: visible  
+  border-radius: 2rem
+.fnd-5
+  background-color: #ffffff 
+  border-radius: 2rem
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #01927F  
+    background-image: url(../assets/curso/temas/tema1/fl_2.svg)
+  .slyder-a__bullets__item 
+    background-color: #A6D9D2
+    border: 1px solid #A6D9D2
+  .slyder-a__bullets__item--active 
+    background-color: #01927F   
+    border: 1px solid #01927F 
+
+.fnd-6
+  background-image: url(../assets/curso/temas/tema1/fnd-1-.svg)
+  background-repeat: no-repeat      
+  background-position: center
+  background-size: cover
+  overflow: visible  
+  border-radius: 2rem
+
+.fnd-6-
+  background-color: #ffffff 
+  border-radius: 2rem
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #43C0FF  
+    background-image: url(../assets/curso/temas/tema1/fl_2.svg)
+  .slyder-a__bullets__item 
+    background-color: #BDE9FF
+    border: 1px solid #BDE9FF
+  .slyder-a__bullets__item--active 
+    background-color: #43C0FF   
+    border: 1px solid #43C0FF     
+.img-297
+  height: 297px
+  width: auto
+.fnd-7
+  background-image: url(../assets/curso/temas/tema1/fnd-2.svg)
+  background-repeat: no-repeat      
+  background-position: center
+  background-size: cover !important
+  overflow: visible  
+  border-radius: 2rem  
+
+.fnd-8
+  &-1
+    border: 6px solid #01A680
+    p 
+      text-align: right !important
+  
+  &-2
+    border: 6px solid #E08447    
+  border-radius: 2rem
+  padding: 4px
+  height: 100% !important
+  min-height: 380px
+  margin: 10px  
+  position: relative
+  
+
+.ln 
+  border-bottom: 3px solid #02DD84    
+  padding: 1rem 0rem 1rem 0rem
+.ln2 
+  border-bottom: 3px solid #E08447    
+  padding: 1rem 0rem 1rem 0rem
+
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__icon 
+      position: relative
+      width: 3rem
+      margin-right: 0.65rem
+      margin-top: 4px       
+  &__txt 
+    p:first-child,
+    h5:first-child     
+      margin-top: 0.8rem
+
+$crd-icon-size: 85px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))) 
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #F6F6F6
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    		
+	      
+.img-38      
+  height: 38px
+
+.ttbl2 
+  text-align: center
+  .t1
+    background-color: #B3E6FF
+  .t2
+    background-color: #FFD5B8
+  .t3
+    background-color: #99F2CE
+  .t4
+    background-color: #B3E6FF
+  .t5
+    background-color: #D9F3FF
+  .t6
+    background-color: #02DD84
+  .t7
+    background-color: #99F2CE
+  .t8
+    background-color: #CCF9E6
+  .t9
+    background-color: #E4FBF2                     
+    border: 0px solid #707070 !important
+  .t10
+    background-color: #01927F
+    color: white  
+  th
+    font-weight: 700  
+    font-size: 1.125em
+    border: 1px solid #707070 !important
+  td
+    padding: 10px
+    border: 1px solid #707070 !important
+
+.ttbl3
+
+  text-align: center
+  .t1
+    background-color: #E4FBF2                     
+    border: 0px solid #707070 !important   
+
+  .t2
+    background-color: #CCF9E6
+  .t3
+    background-color: #99F2CE
+  .t4
+    background-color: #02DD84
+  .t5
+    background-color: #01927F
+    color: white
+  .t6
+    background-color: #B3E6FF
+  .t7
+    background-color: #D9F3FF  
+  .t8
+    background-color: #FFD5B8
+  .t9
+    background-color: #F6E1D3
+  .t10
+    background-color: #E4F3F1
+  .t11
+    background-color: #CCE9E5
+  .t12
+    background-color: #99D3CC   
+  th
+    font-weight: 700  
+    border: 1px solid #707070 !important
+  td
+    padding: 10px
+    border: 1px solid #707070 !important
+
+
+.img-fnd-flot2
+  position: relative
+  width: 100%
+  .fl-box2
+    position: absolute
+    background-color: #ffffff00
+    top: 50%
+    left: 6%
+    transform: translatey(-47%)
+    width: 82%
+    color: #fff
+    padding: 20px
+    border-radius: 1rem
+    p
+      font-size: 0.6rem !important
+      color: white
+
+      
+  @media (min-width: 992px)
+    .b-img2
+      display: block
+      width: 100%                                                                                                                                                                                                                                                           
+    .fl-box2
+      top: 50%
+      transform: translatey(-50%)
+      p
+        font-size: 1rem !important
+
+
+
+
