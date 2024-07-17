@@ -29,5 +29,17 @@
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-pug": "^2.0.0",
     "vue-template-compiler": "^2.6.14"
-  }
+  },
+  "description": "[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECOREDSENA-ATLANTICO/733402_CF4_PROYECTOS_AGROPECUARIOS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ECOREDSENA-ATLANTICO/733402_CF4_PROYECTOS_AGROPECUARIOS/issues"
+  },
+  "homepage": "https://github.com/ECOREDSENA-ATLANTICO/733402_CF4_PROYECTOS_AGROPECUARIOS#readme"
 }
