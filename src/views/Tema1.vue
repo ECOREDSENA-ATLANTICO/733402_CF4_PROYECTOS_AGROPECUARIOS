@@ -12,7 +12,7 @@
         p La evaluación de un proyecto se fundamenta en la necesidad de establecer las técnicas para determinar lo que está sucediendo y cómo ha ocurrido, para apuntar hacia lo que encierra el futuro si no se interviene, por lo que la medición de factores concurrentes y coadyuvantes, permite deﬁnir la factibilidad de ejecución del proyecto (Graterol, 2010). 
         p La evaluación de proyectos puede hacerse desde dos puntos de vista que no son opuestos, pero sí distintos: el primero corresponde al criterio privado y el segundo es el criterio social, de acuerdo con la perspectiva que se encamine la evaluación, dependerá la decisión que se tome en relación con la realización del proyecto. 
         p Dicho lo anterior, la evaluación de un proyecto signiﬁca analizar el proceso de transformación, de cambio o de mudanza y valorar su signiﬁcado; es por ello que, en este análisis, es necesario obtener y comparar magnitudes, someterlas a juicio y conseguir resultados concretos que señalen cómo se debe proseguir en la transformación de una situación y a costa de qué esfuerzo (Córdoba 2011).
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -60,27 +60,33 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img(src='@/assets/curso/temas/tema1/img-6.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img-6.svg', alt='La figura muestra la jerarquía de las normas de Colombia. 1-Preparacion del proyecto. 2-Ejecucion/terminación del proyecto. 3-Operacion/Post-proyecto.')
               figcaption Nota. Elaboración propia. Normatividad del sector agropecuario en Colombia.
 
-    .row.justify-content-start.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .row.justify-content-start.align-items-center
           p.mb-5 El ciclo de vida de un proyecto comienza en la etapa de preparación, continuando con la etapa de ejecución y finalizando con la operación, la evaluación se relaciona en cada una de las fases, resaltando que para cada fase del ciclo de vida del proyecto, se desarrollan las siguientes tareas:
-          .col-sm-auto.mb-4
-            figure
-              img.img-38(src='@/assets/curso/temas/tema1/img-7.svg', alt='')    
-          p En esta etapa se efectúa la Matriz de Marco Lógico, con el fin de determinar el propósito del proyecto, sus fines y los supuestos que se puedan presentar en la ejecución del proyecto.
-          .col-sm-auto.mb-4
-            figure
-              img.img-38(src='@/assets/curso/temas/tema1/img-8.svg', alt='')    
-          p En la etapa de ejecución se efectúa el desempeño y desarrollo del proyecto, esto con el fin de elaborar informes de seguimiento, que permitan gestionar ajustes a lo evidenciado en el monitoreo y evaluación.
-          .col-sm-auto.mb-4
-            figure
-              img.img-38(src='@/assets/curso/temas/tema1/img-9.svg', alt='')    
+
+          .img-fnd-flot8.mb-3
+            img.b-img9(src='@/assets/curso/temas/tema1/fnd--.svg' alt='Background Image')
+            .fl-box8
+              h3.mb-0 Etapa de preparación                 
+          p.mb-5 En esta etapa se efectúa la Matriz de Marco Lógico, con el fin de determinar el propósito del proyecto, sus fines y los supuestos que se puedan presentar en la ejecución del proyecto.
+ 
+          .img-fnd-flot8.mb-3
+            img.b-img8(src='@/assets/curso/temas/tema1/fnd--.svg' alt='Background Image')
+            .fl-box8
+              h3.mb-0 Etapa de ejecución:               
+          p.mb-5 En la etapa de ejecución se efectúa el desempeño y desarrollo del proyecto, esto con el fin de elaborar informes de seguimiento, que permitan gestionar ajustes a lo evidenciado en el monitoreo y evaluación.
+ 
+          .img-fnd-flot8.mb-3
+            img.b-img8(src='@/assets/curso/temas/tema1/fnd--.svg' alt='Background Image')
+            .fl-box8
+              h3.mb-0 Etapa de operación                
           p En esta etapa se examina el impacto del proyecto, esto con el fin de generar informes con recomendaciones que sirvan de aprendizaje para futuros proyectos.                
-      .col-lg-4
-        figure.mb-5
+      .col-lg-4.col-sm-10
+        figure.mb-3
           img(src='@/assets/curso/temas/tema1/img-10.png', alt='')      
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .list.mb-3(data-aos="fade-down")
@@ -90,28 +96,28 @@
         .list__txt
           h5.mb-0 Tipos de evaluación
 
-          Para cada fase del ciclo de vida del proyecto, se encuentran diferentes tipos de evaluación, cuyo fin es el medir la asignación de los recursos. En la literatura se pueden encontrar diferentes tipologías de evaluaciones del ciclo de vida de los proyectos, sin embargo se abordaron dos en este documento.
+      p Para cada fase del ciclo de vida del proyecto, se encuentran diferentes tipos de evaluación, cuyo fin es el medir la asignación de los recursos. En la literatura se pueden encontrar diferentes tipologías de evaluaciones del ciclo de vida de los proyectos, sin embargo se abordaron dos en este documento.
 
 
     .row.justify-content-center.align-items-stretch(data-aos="fade-right")
       .col-xl-7
         .row.justify-content-center.align-items-center.mb-5.fnd-3.fnd-3-1
-          .col-8
+          .col-lg-8.col-sm-10
             h5.mb-0 La primera tipología está conformada por cuatro aspectos:
             p.mb-0  Evaluación ex-ante: esta etapa evalúa la fase de preparación del proyecto, es decir, la problemática, las necesidades, la población objetivo.
             p.mb-0  La evaluación intra: esta evaluación se efectúa en la fase de ejecución, aquí se evalúan las actividades en desarrollo.
             p.mb-0  La evaluación post: esta fase corresponde con la finalización de la ejecución del proyecto, analizando los resultados obtenidos.
             p.mb-0  La evaluación ex-post: esta fase se realiza después de haber terminado la ejecución del proyecto, se evalúan los resultados, centrándose en los impactos del proyecto.
-          .col-4
+          .col-lg-4.col-sm-10
             figure.fl-box-img
               img.img-297(src='@/assets/curso/temas/tema1/img-11-.png' alt='Background Image')
       .col-xl-5
-        .row.justify-content-center.align-items-center.mb-5.fnd-3.fnd-3-2
-          .col-6.py-5
+        .row.justify-content-center.align-items-center.mb-3.fnd-3.fnd-3-2
+          .col-xl-7.col-lg-8.col-sm-10
             h5 La segunda tipología es la propuesta por el Banco Interamericano de Desarrollo (BID), la cual considera dos tipos de evaluaciones:
             p.mb-0 Formativa: se realiza en la etapa de preparación y ejecución del proyecto.
             p Sumativa: se realiza después de terminado el proyecto.
-          .col-6
+          .col-xl-5.col-lg-4.col-sm-10
             figure.fl-box-img             
               img.img-297(src='@/assets/curso/temas/tema1/img-12-.png' alt='Background Image')
 
@@ -121,7 +127,7 @@
       h2 1.1 Evaluación financiera
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3
+      .col-lg-3.mb-5
         figure 
           img(src='@/assets/curso/temas/tema1/img-13.png', alt='')
       .col-lg-9.fnd-2.p-4
@@ -136,7 +142,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img.mb-3(src='@/assets/curso/temas/tema1/img-14.svg', alt='')
+              img.mb-3(src='@/assets/curso/temas/tema1/img-14.svg', alt='La figura 2 esquematiza el proceso de la evaluación financiera, la cual parte de un flujo de inversiones, ya sean de índole público o privado, pasando por una evaluación de indicadores financieros (VAN, TIR, R B/C), finalizando con el análisis respectivo, que permita tomar la decisión de llevar a cabo o no la ejecución del proyecto.')
               figcaption Nota. Elaboración propia.
         p La figura 2 esquematiza el proceso de la evaluación financiera, la cual parte de un flujo de inversiones, ya sean de índole público o privado, pasando por una evaluación de indicadores financieros (VAN, TIR, R B/C), finalizando con el análisis respectivo, que permita tomar la decisión de llevar a cabo o no la ejecución del proyecto.
 
@@ -147,7 +153,7 @@
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
           h5.mb-0 Indicadores financieros para evaluar proyectos
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-15.png', alt='')    
       .col-lg-8
@@ -425,15 +431,16 @@
           img(src='@/assets/curso/temas/tema1/img-29.png')
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5. 
           span Flujo Neto para cálculo de la R B/C
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-8
-        .ttbl3
+      .col-xl-8
+        
+        .tabla-b.color-acento-contenido.ttbl3.mb-3
           table
             
             tr
@@ -473,7 +480,7 @@
               td 
               td $8.700.000
               td $4.250.000 
-      .col-lg-4
+      .col-xl-4
         .ttbl3.mb-3
           table
             tr
@@ -569,14 +576,14 @@
     #1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2 1.2 Evaluación económica y social
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-8
         p La evaluación económica y social, es aquella que permite identificar las cualidades que tiene un proyecto, indiferente de la situación financiera, por lo que no es un factor relevante, la distribución de las utilidades, tiene como propósito, identificar el impacto que del proyecto sobre el bienestar económico del país.
         p La evaluación económica difiere de la evaluación financiera, la primera pretende medir el rendimiento del proyecto en términos de recursos reales para la sociedad, la segunda se estima el rendimiento de un proyecto. 
         p Para efectuar la evaluación económica y social se deben utilizar la Tasa Social de Descuento (TSD), que para el caso de Colombia se ha calculado en el 12%, queriendo decir con esto, que la rentabilidad esperada en el proyecto de inversión pública debe estar por encima de este valor.
         p De igual forma, para la evaluación económica y social se debe medir con los costos verdaderos de oportunidad y no con los costos del mercado, estos se conocen como precios sombra o precios cuenta.
         p Para proceder a realizar la evaluación económica y social se deben tener en cuenta, el anexo: Actualización de la estimación de los indicadores “Razón Precio-Cuenta”.
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.p-4
           img(src='@/assets/curso/temas/tema1/img-37.svg')
 
@@ -588,11 +595,11 @@
         .list__txt
           h5.mb-0 Diferencias entre el análisis financiero y el económico y social
 
-    p De acuerdo a lo evidenciado en la evaluación de un proyecto, se denotan diferencias significativas entre la evaluación financiera y la evaluación económica y social, como se muestra a continuación :
+    p.mb-5 De acuerdo a lo evidenciado en la evaluación de un proyecto, se denotan diferencias significativas entre la evaluación financiera y la evaluación económica y social, como se muestra a continuación :
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2.
+          h5 Figura 3.
           span Diferencias Análisis económico y Social vs Análisis Financiero
       .col-lg-10.fnd-7
         .row.justify-content-center.align-items-center
@@ -625,28 +632,26 @@
                 p.px-0.mt-3.mb-2 Los impuestos son costos
                 p.mb-0.ln2 Los subsidios son ingresos
                 p.px-0.mt-3.mb-2 El estudio financiero se refiere a la capacidad de obtener ganancias.
-      .col-lg-10
-        
-        figcaption.mt-4 Nota. Elaboración propia
+      .col-lg-10        
+        figcaption.mt-1 Nota. Elaboración propia
 
 
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
-
-
-
-
-
-
-
-
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-xl-10
-        .img-fnd-flot2.mb-5
+        .img-fnd-flot2.mb-3
           img.b-img2(src='@/assets/curso/temas/tema1/fnd-3.svg')
           .fl-box2
             p.mb-3 Finalmente, la evaluación de proyectos permite estimar los costos y beneficios desde la óptica financiera y los costos y beneficios económicos desde la óptica económica, se construyen los indicadores financieros, los cuales de acuerdo a los resultados obtenidos (viable o no viable), permiten tomar la decisión de continuar con el proyecto.
+
+
+
+ 
+
+
+
+
+
+
 
 
 
