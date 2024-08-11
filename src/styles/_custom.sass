@@ -43,13 +43,12 @@
   height: auto
   margin: 10px  
   position: relative
-  p
-    font-size: 0.9rem
+
   @media (min-width: 992px) and (max-width: 1200px)        
     min-height: 340px
     padding: 4px
   @media (min-width: 1200px)    
-    min-height: 380px
+    min-height: 400px
     padding: 4px
   .fl-box-img
     position: absolute
@@ -165,7 +164,7 @@
       margin-top: 4px       
   &__txt 
     p:first-child,
-    h5:first-child     
+    h3:first-child     
       margin-top: 0.8rem
 
 $crd-icon-size: 85px
@@ -305,7 +304,7 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2)))
       border-radius: 1rem
       p
         color: #fff      
-        font-size: 0.9rem !important
+        
   @media (min-width: 992px) and (max-width: 1200px)  
     border-radius: 1rem
     padding: 0
@@ -347,3 +346,14 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2)))
     margin: 0 5px
 
 
+.banner-principal__row .banner-principal__img 
+    padding-right: 0 !important
+
+
+.banner-principal .tarjeta   
+  background-image: url(../assets/curso/portada/fondo-banner-principal-v.png) !important
+  background-repeat: no-repeat      
+  background-position: bottom center
+  background-size: cover
+  @media (min-width: 768px)  
+    background-image: url(../assets/curso/portada/fondo-banner-principal.png) !important    

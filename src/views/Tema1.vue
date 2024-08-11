@@ -12,7 +12,7 @@
         p La evaluación de un proyecto se fundamenta en la necesidad de establecer las técnicas para determinar lo que está sucediendo y cómo ha ocurrido, para apuntar hacia lo que encierra el futuro si no se interviene, por lo que la medición de factores concurrentes y coadyuvantes, permite deﬁnir la factibilidad de ejecución del proyecto (Graterol, 2010). 
         p La evaluación de proyectos puede hacerse desde dos puntos de vista que no son opuestos, pero sí distintos: el primero corresponde al criterio privado y el segundo es el criterio social, de acuerdo con la perspectiva que se encamine la evaluación, dependerá la decisión que se tome en relación con la realización del proyecto. 
         p Dicho lo anterior, la evaluación de un proyecto signiﬁca analizar el proceso de transformación, de cambio o de mudanza y valorar su signiﬁcado; es por ello que, en este análisis, es necesario obtener y comparar magnitudes, someterlas a juicio y conseguir resultados concretos que señalen cómo se debe proseguir en la transformación de una situación y a costa de qué esfuerzo (Córdoba 2011).
-      .col-lg-4.col-sm-10
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='')
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -25,7 +25,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Actores intervinientes
+          h4.mb-0 Actores intervinientes
       p.mb-5 Según Córdoba, (2011), la evaluación de un proyecto persigue los siguientes objetivos:
 
 
@@ -85,7 +85,7 @@
             .fl-box8
               h3.mb-0 Etapa de operación                
           p En esta etapa se examina el impacto del proyecto, esto con el fin de generar informes con recomendaciones que sirvan de aprendizaje para futuros proyectos.                
-      .col-lg-4.col-sm-10
+      .col-lg-4.col-md-8
         figure.mb-3
           img(src='@/assets/curso/temas/tema1/img-10.png', alt='')      
     .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -94,7 +94,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Tipos de evaluación
+          h3.mb-0 Tipos de evaluación
 
       p Para cada fase del ciclo de vida del proyecto, se encuentran diferentes tipos de evaluación, cuyo fin es el medir la asignación de los recursos. En la literatura se pueden encontrar diferentes tipologías de evaluaciones del ciclo de vida de los proyectos, sin embargo se abordaron dos en este documento.
 
@@ -102,22 +102,22 @@
     .row.justify-content-center.align-items-stretch(data-aos="fade-right")
       .col-xl-7
         .row.justify-content-center.align-items-center.mb-5.fnd-3.fnd-3-1
-          .col-lg-8.col-sm-10
+          .col-lg-8.col-md-10
             h5.mb-0 La primera tipología está conformada por cuatro aspectos:
             p.mb-0  Evaluación ex-ante: esta etapa evalúa la fase de preparación del proyecto, es decir, la problemática, las necesidades, la población objetivo.
             p.mb-0  La evaluación intra: esta evaluación se efectúa en la fase de ejecución, aquí se evalúan las actividades en desarrollo.
             p.mb-0  La evaluación post: esta fase corresponde con la finalización de la ejecución del proyecto, analizando los resultados obtenidos.
             p.mb-0  La evaluación ex-post: esta fase se realiza después de haber terminado la ejecución del proyecto, se evalúan los resultados, centrándose en los impactos del proyecto.
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure.fl-box-img
               img.img-297(src='@/assets/curso/temas/tema1/img-11-.png' alt='Background Image')
       .col-xl-5
         .row.justify-content-center.align-items-center.mb-3.fnd-3.fnd-3-2
-          .col-xl-7.col-lg-8.col-sm-10
+          .col-xl-7.col-lg-8.col-md-10
             h5 La segunda tipología es la propuesta por el Banco Interamericano de Desarrollo (BID), la cual considera dos tipos de evaluaciones:
             p.mb-0 Formativa: se realiza en la etapa de preparación y ejecución del proyecto.
             p Sumativa: se realiza después de terminado el proyecto.
-          .col-xl-5.col-lg-4.col-sm-10
+          .col-xl-5.col-lg-4.col-md-10
             figure.fl-box-img             
               img.img-297(src='@/assets/curso/temas/tema1/img-12-.png' alt='Background Image')
 
@@ -127,7 +127,7 @@
       h2 1.1 Evaluación financiera
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.mb-5
+      .col-lg-3.mb-5.col-md-8
         figure 
           img(src='@/assets/curso/temas/tema1/img-13.png', alt='')
       .col-lg-9.fnd-2.p-4
@@ -152,8 +152,8 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Indicadores financieros para evaluar proyectos
-      .col-lg-4.col-sm-10
+          h3.mb-0 Indicadores financieros para evaluar proyectos
+      .col-lg-4.col-md-8
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-15.png', alt='')    
       .col-lg-8
@@ -170,7 +170,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Valor Actual Neto o Valor Presente Neto (VAN)
+          h3.mb-0 Valor Actual Neto o Valor Presente Neto (VAN)
       p El Valor Presente Neto es el valor que resulta de traer los flujos netos al valor presente con la tasa de interés de oportunidad y restarle las inversiones; esta función se puede calcular en el programa de office Excel, con la función financiera llamada VNA.
       p Para interpretar el valor presente neto se dice que:
     .row.justify-content-center.align-items-center
@@ -258,7 +258,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 ¿Cómo calcular el Valor Presente Neto?              
+          h3.mb-0 ¿Cómo calcular el Valor Presente Neto?              
 
       p Para calcular lo primero que deben hacer es pasar los datos al archivo en Excel, como se muestra en la siguiente figura:
     
@@ -308,7 +308,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Tasa Interna de Retorno (TIR)
+          h3.mb-0 Tasa Interna de Retorno (TIR)
 
       p La Tasa Interna de Retorno (TIR), es el reflejo de la tasa de interés o de rentabilidad que el proyecto arrojará periodo a periodo durante su vida útil. La TIR se compara con la tasa de oportunidad y se aceptan aquellos proyectos en los que la TIR es igual o superior.
       p Para interpretar la TIR se dice que:
@@ -373,7 +373,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 ¿Cómo calcular la Tasa Interna de Retorno?      
+          h3.mb-0 ¿Cómo calcular la Tasa Interna de Retorno?      
 
     .row.justify-content-center.align-items-center.mb-5.fnd-6(data-aos="zoom-in")
       .col-lg-12.p-4        
@@ -421,12 +421,12 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Relación Beneficio - Costo  R B/C
+          h3.mb-0 Relación Beneficio - Costo  R B/C
       .col-lg-8
         p La relación costo - beneficio, es la relación presente de los flujos netos a la inversión inicial. En la R B/Cel VAN de los ingresos es mayor al VAN de los egresos, sumado la inversión, es superior a 1 en un periodo de tiempo con una tasa de oportunidad. 
         p Dado lo anterior, se puede decir que los ingresos son suficientes para cubrir todos los costos y además dan un excedente por cada peso invertido del restante del valor de 1, ante esta situación se habla de un proyecto viable financieramente.
         p A continuación, se puede visualizar un ejemplo de la Relación Beneficio - Costo en una hoja de cálculo:
-      .col-lg-4
+      .col-lg-4.col-md-10
         figure.p-4
           img(src='@/assets/curso/temas/tema1/img-29.png')
 
@@ -515,7 +515,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 ¿Cómo calcular la relación Beneficio - Costo?
+          h3.mb-0 ¿Cómo calcular la relación Beneficio - Costo?
 
     .row.justify-content-center.align-items-center.mb-5.fnd-4(data-aos="zoom-in")
       .col-lg-12.p-4        
@@ -583,7 +583,7 @@
         p Para efectuar la evaluación económica y social se deben utilizar la Tasa Social de Descuento (TSD), que para el caso de Colombia se ha calculado en el 12%, queriendo decir con esto, que la rentabilidad esperada en el proyecto de inversión pública debe estar por encima de este valor.
         p De igual forma, para la evaluación económica y social se debe medir con los costos verdaderos de oportunidad y no con los costos del mercado, estos se conocen como precios sombra o precios cuenta.
         p Para proceder a realizar la evaluación económica y social se deben tener en cuenta, el anexo: Actualización de la estimación de los indicadores “Razón Precio-Cuenta”.
-      .col-lg-4.col-sm-10
+      .col-lg-4.col-md-8
         figure.p-4
           img(src='@/assets/curso/temas/tema1/img-37.svg')
 
@@ -593,7 +593,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h5.mb-0 Diferencias entre el análisis financiero y el económico y social
+          h3.mb-0 Diferencias entre el análisis financiero y el económico y social
 
     p.mb-5 De acuerdo a lo evidenciado en la evaluación de un proyecto, se denotan diferencias significativas entre la evaluación financiera y la evaluación económica y social, como se muestra a continuación :
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")

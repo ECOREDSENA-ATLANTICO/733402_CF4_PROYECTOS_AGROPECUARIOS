@@ -43,12 +43,12 @@ export default {
           {
             numero: '1.1',
             titulo: 'Evaluación financiera',
-            hash: 't_1_1',
+            hash: '1_1',
           },
           {
             numero: '1.2',
             titulo: 'Evaluación económica y social',
-            hash: 't_1_2',
+            hash: '1_2',
           },
         ],
       },
@@ -71,11 +71,7 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -98,20 +94,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
-    },
-  ],
+
   glosario: [
     {
       termino: 'Alcance',
@@ -184,7 +167,8 @@ export default {
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Líder del Ecosistema',
-          centro: 'Dirección General',
+          centro:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
