@@ -25,7 +25,7 @@
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h4.mb-0 Actores intervinientes
+          h3.mb-0 Actores intervinientes
       p.mb-5 Según Córdoba, (2011), la evaluación de un proyecto persigue los siguientes objetivos:
 
 
