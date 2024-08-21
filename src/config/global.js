@@ -117,12 +117,12 @@ export default {
         'Es un trabajo o esfuerzo que se ejecuta una sola vez y que persigue un fin específico, y tiene como característica principal producir resultados únicos como un producto o un servicio.',
     },
     {
-      termino: 'Tasa interna de retorno (TIR)',
+      termino: 'Tasa Interna de Retorno (TIR)',
       significado:
         'Tasa de descuentos que equivale al valor presente del flujo de caja neto en relación con el costo inicial de un proyecto.',
     },
     {
-      termino: 'Valor presente neto (VAN)',
+      termino: 'Valor Presente Neto (VAN)',
       significado:
         'Valor presente de la corriente estimada de los flujos de caja neto de un proyecto, descontando el costo de capital de la firma, menos el costo inicial del proyecto.',
     },

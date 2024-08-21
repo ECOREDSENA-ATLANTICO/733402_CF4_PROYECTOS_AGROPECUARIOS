@@ -18,14 +18,14 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.fnd-1.p-4
         p.mb-0 A su vez, para la evaluación del proyecto, es indispensable tomar los valores del flujo neto de caja, que agrupa el flujo neto de inversión, operación y financiamiento, para luego aplicar los indicadores financieros los cuales darán a conocer la viabilidad del proyecto y si es recomendable invertir en este (Puentes, 2011).
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       
       .list.mb-3(data-aos="fade-down")
         .list__item
           .list__item__icon
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
-          h3.mb-0 Actores intervinientes
+          h3.mb-0 Objetivos de la evaluación
       p.mb-5 Según Córdoba, (2011), la evaluación de un proyecto persigue los siguientes objetivos:
 
 
@@ -52,16 +52,16 @@
       .col-lg-8
         p Se considera que el ciclo de vida de un proyecto, finaliza en el momento que se efectúan los desembolsos de efectivo, o sea, cuando se habla de la etapa de ejecución, sin embargo, la vida de un proyecto consta de otras etapas, como se muestra en la figura 1, resaltando además, que las fases del proyecto y las actividades de evaluación se relacionan. 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span Jerarquía de las normas en Colombia.
+          span Fases del proyecto
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
               img(src='@/assets/curso/temas/tema1/img-6.svg', alt='La figura muestra la jerarquía de las normas de Colombia. 1-Preparacion del proyecto. 2-Ejecucion/terminación del proyecto. 3-Operacion/Post-proyecto.')
-              figcaption Nota. Elaboración propia. Normatividad del sector agropecuario en Colombia.
+
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
@@ -77,7 +77,7 @@
           .img-fnd-flot8.mb-3
             img.b-img8(src='@/assets/curso/temas/tema1/fnd--.svg' alt='Background Image')
             .fl-box8
-              h3.mb-0 Etapa de ejecución:               
+              h3.mb-0 Etapa de ejecución   
           p.mb-5 En la etapa de ejecución se efectúa el desempeño y desarrollo del proyecto, esto con el fin de elaborar informes de seguimiento, que permitan gestionar ajustes a lo evidenciado en el monitoreo y evaluación.
  
           .img-fnd-flot8.mb-3
@@ -132,7 +132,7 @@
           img(src='@/assets/curso/temas/tema1/img-13.png', alt='')
       .col-lg-9.fnd-2.p-4
         p La evaluación financiera de proyectos puede considerarse como el ejercicio mediante el cual se intentan identificar los costos y beneficios de un proyecto, con la finalidad de tomar la decisión más acertada.
-        p La evaluación financiera, permite identificar si el proyecto es viable, dada sus inversiones, sus ingresos y egresos durante un periodo de tiempo, reconociendo sus pérdidas o ganancias; esta evaluación se efectúa a través de criterios como el valor presente neto (VPN), la Tasa Interna de Retorno (TIR) y la relación Costo – Beneficio, esto lo podemos apreciar en la figura que se propone a continuación:
+        p La evaluación financiera, permite identificar si el proyecto es viable, dada sus inversiones, sus ingresos y egresos durante un periodo de tiempo, reconociendo sus pérdidas o ganancias; esta evaluación se efectúa a través de criterios como el Valor Presente Neto (VPN), la Tasa Interna de Retorno (TIR) y la relación Costo – Beneficio, esto lo podemos apreciar en la figura que se propone a continuación:
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10
@@ -171,28 +171,28 @@
             img(src='@/assets/curso/temas/tema1/img-2.svg', alt='')
         .list__txt
           h3.mb-0 Valor Actual Neto o Valor Presente Neto (VAN)
-      p El Valor Presente Neto es el valor que resulta de traer los flujos netos al valor presente con la tasa de interés de oportunidad y restarle las inversiones; esta función se puede calcular en el programa de office Excel, con la función financiera llamada VNA.
-      p Para interpretar el valor presente neto se dice que:
-    .row.justify-content-center.align-items-center
+      p El Valor Presente Neto es el valor que resulta de traer los flujos netos al valor presente con la tasa de interés de oportunidad y restarle las inversiones; esta función se puede calcular en el programa de Office Excel, con la función financiera llamada VNA.
+      p Para interpretar el Valor Presente Neto se dice que:
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
 
           .col-lg-3
             .crd_02.mb-5
               .crd_02__icon.dan
                 img(src="@/assets/curso/temas/tema1/img-16.svg", alt="alt")          
               .crd_02__txt
-                h6.mb-0 Si el valor presente neto es mayor a cero se acepta el proyecto.
+                h6.mb-0 Si el Valor Presente Neto es mayor a cero se acepta el proyecto.
           .col-lg-3
             .crd_02.mb-5
               .crd_02__icon.dan
                 img(src="@/assets/curso/temas/tema1/img-17.svg", alt="alt")          
               .crd_02__txt
-                h6.mb-0Si el valor presente neto es menor a cero se rechaza el proyecto.
+                h6.mb-0Si el Valor Presente Neto es menor a cero se rechaza el proyecto.
           .col-lg-4
             .crd_02.mb-5
               .crd_02__icon.dan
                 img(src="@/assets/curso/temas/tema1/img-18.svg", alt="alt")          
               .crd_02__txt
-                h6.mb-0 Si el valor presente neto es igual a cero se es indiferente el proyecto y quedará a criterio del evaluador si lo acepta o lo rechaza.            
+                h6.mb-0 Si el Valor Presente Neto es igual a cero se es indiferente el proyecto y quedará a criterio del evaluador si lo acepta o lo rechaza.            
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -202,7 +202,7 @@
           span Valoración VNA
         .tabla-b.color-acento-contenido.mb-5.ttbl2
           table
-            caption Nota. Elaboración propia (2021)
+            caption Nota. Elaboración propia (2021).
             tr
               th.t1 Valor
               th.t2 Significado
@@ -219,7 +219,7 @@
               td VNA = 0
               td La inversión no producirá ni ganancias ni pérdidas
               td
-                | Se es indiferente el proyecto, y la decisión de si se acepta o se rechaza, deberá ser tomada basada en otros criterios.
+                | Se es indiferente el proyecto, y la decisión de si se acepta o se rechaza, deberá ser tomada basada en otros criterios
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -229,7 +229,7 @@
           span Flujo Neto para cálculo del VNA
         .tabla-b.color-acento-contenido.ttbl2
           table
-            caption Nota. Elaboración propia (2021)
+            caption Nota. Elaboración propia (2021).
 
             tr
               th
@@ -237,19 +237,19 @@
               th.t5 Periodo 1
               th.t6 Periodo 2
               th.t7 Periodo 3
-              th.t8(rowspan='5') Tasa de oportunidad 18%.
+              th.t8(rowspan='5') Tasa de oportunidad 18 %
             tr
               td Inversión inicial
-              td 10.000.000
+              td $10.000.000
               td                
               td                
               td                
             tr
               td Flujo neto
-              td -10.000.000
-              td 1.200.000
-              td 6.500.000
-              td 8.700.000
+              td $-10.000.000
+              td $1.200.000
+              td $6.500.000
+              td $8.700.000
             
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -320,7 +320,7 @@
           span Valoración VNA
         .tabla-b.color-acento-contenido.ttbl2
           table
-            caption Nota. Elaboración propia (2021)
+            caption Nota. Elaboración propia (2021).
             tr
               th.t7(colspan='2') Valoración VNA
             tr
@@ -334,7 +334,7 @@
               td Se rechaza el proyecto              
             tr
               td TIR = tasa de interés de oportunidad	
-              td Se es indiferente frente al proyecto, y la decisión de si se acepta o se rechaza, deberá ser tomada basada en otros criterios.              
+              td Se es indiferente frente al proyecto, y la decisión de si se acepta o se rechaza, deberá ser tomada basada en otros criterios          
 
     p A continuación, se puede visualizar un ejemplo de la Tasa Interna de Retorno en una hoja de cálculo:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -489,7 +489,7 @@
           table              
             tr
               th.t8 Tasa de descuento  
-              td.t9 18%
+              td.t9 18 %
 
         .ttbl3
           table
@@ -578,7 +578,7 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-8
-        p La evaluación económica y social, es aquella que permite identificar las cualidades que tiene un proyecto, indiferente de la situación financiera, por lo que no es un factor relevante, la distribución de las utilidades, tiene como propósito, identificar el impacto que del proyecto sobre el bienestar económico del país.
+        p La evaluación económica y social, es aquella que permite identificar las cualidades que tiene un proyecto, indiferente de la situación financiera, por lo que no es un factor relevante, la distribución de las utilidades, tiene como propósito, identificar el impacto que tiene el proyecto sobre el bienestar económico del país.
         p La evaluación económica difiere de la evaluación financiera, la primera pretende medir el rendimiento del proyecto en términos de recursos reales para la sociedad, la segunda se estima el rendimiento de un proyecto. 
         p Para efectuar la evaluación económica y social se deben utilizar la Tasa Social de Descuento (TSD), que para el caso de Colombia se ha calculado en el 12%, queriendo decir con esto, que la rentabilidad esperada en el proyecto de inversión pública debe estar por encima de este valor.
         p De igual forma, para la evaluación económica y social se debe medir con los costos verdaderos de oportunidad y no con los costos del mercado, estos se conocen como precios sombra o precios cuenta.
@@ -599,11 +599,11 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
-          span Diferencias Análisis económico y Social vs Análisis Financiero
+          h5 Tabla 6.
+          span Diferencias Análisis económico y Social vs. Análisis Financiero
       .col-lg-10.fnd-7
         .row.justify-content-center.align-items-center
-          h5.mt-4.text-center Diferencias Análisis económico y Social vs Análisis Financiero
+          h5.mt-4.text-center Diferencias Análisis Económico y Social vs. Análisis Financiero
 
         .row.justify-content-center.align-items-stretch(data-aos="fade-right")
           .col-xl-6.mb-5
@@ -631,12 +631,12 @@
                 p.mb-0.ln2 Precios de mercado
                 p.px-0.mt-3.mb-2 Los impuestos son costos
                 p.mb-0.ln2 Los subsidios son ingresos
-                p.px-0.mt-3.mb-2 El estudio financiero se refiere a la capacidad de obtener ganancias.
+                p.px-0.mt-3.mb-2 El estudio financiero se refiere a la capacidad de obtener ganancias
       .col-lg-10        
         figcaption.mt-1 Nota. Elaboración propia
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-xl-10
         .img-fnd-flot2.mb-3
           img.b-img2(src='@/assets/curso/temas/tema1/fnd-3.svg')
