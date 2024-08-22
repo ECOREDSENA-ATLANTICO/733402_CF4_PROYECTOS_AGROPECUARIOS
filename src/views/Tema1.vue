@@ -61,7 +61,7 @@
           .col-lg-12
             figure.mb-5
               img(src='@/assets/curso/temas/tema1/img-6.svg', alt='La figura muestra la jerarquía de las normas de Colombia. 1-Preparacion del proyecto. 2-Ejecucion/terminación del proyecto. 3-Operacion/Post-proyecto.')
-
+            figcaption Nota. Elaboración propia.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
@@ -505,7 +505,7 @@
             tr
               th.t5 Beneficio - Costo	  
               td          
-      figcaption.mt-4 Nota. Elaboración propia (2021)
+      figcaption.mt-4 Nota. Elaboración propia (2021).
 
 
 
@@ -600,7 +600,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
-          span Diferencias Análisis económico y Social vs. Análisis Financiero
+          span Diferencias Análisis Económico y Social vs. Análisis Financiero
       .col-lg-10.fnd-7
         .row.justify-content-center.align-items-center
           h5.mt-4.text-center Diferencias Análisis Económico y Social vs. Análisis Financiero
@@ -633,7 +633,7 @@
                 p.mb-0.ln2 Los subsidios son ingresos
                 p.px-0.mt-3.mb-2 El estudio financiero se refiere a la capacidad de obtener ganancias
       .col-lg-10        
-        figcaption.mt-1 Nota. Elaboración propia
+        figcaption.mt-1 Nota. Elaboración propia.
 
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
