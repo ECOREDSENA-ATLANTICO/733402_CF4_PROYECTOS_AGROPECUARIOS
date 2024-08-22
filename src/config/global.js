@@ -141,7 +141,8 @@ export default {
     {
       referencia:
         'Departamento Nacional de Planeación, (2016). Documento guía del módulo de capacitación en teoría de proyectos. DNP.',
-      link: 'https://www.dnp.gov.co/NuevaMGA/Paginas/Ayuda-de-la-MGA.aspx',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Inversiones%20y%20finanzas%20pblicas/MGA_WEB/Documento%20Base%20Modulo%20Teoria%20de%20Proyectos.pdf',
     },
     {
       referencia:
