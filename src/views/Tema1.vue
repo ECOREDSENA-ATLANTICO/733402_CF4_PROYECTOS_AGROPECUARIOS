@@ -57,7 +57,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span Fases del proyecto
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-center.mb-4
           .col-lg-12
             figure.mb-5
               img(src='@/assets/curso/temas/tema1/img-6.svg', alt='La figura muestra la jerarquía de las normas de Colombia. 1-Preparacion del proyecto. 2-Ejecucion/terminación del proyecto. 3-Operacion/Post-proyecto.')
