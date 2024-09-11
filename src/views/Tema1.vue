@@ -66,7 +66,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .row.justify-content-start.align-items-center
-          p.mb-5 El ciclo de vida de un proyecto comienza en la etapa de preparación, continuando con la etapa de ejecución y finalizando con la operación, la evaluación se relaciona en cada una de las fases, resaltando que para cada fase del ciclo de vida del proyecto, se desarrollan las siguientes tareas:
+          p.mb-5 El ciclo de vida de un proyecto comienza en la etapa de preparación, continuando con la etapa de ejecución y finalizando con la operación, la evaluación se relaciona en cada una de las fases, resaltando que, para cada fase del ciclo de vida del proyecto, se desarrollan las siguientes tareas:
 
           .img-fnd-flot8.mb-3
             img.b-img9(src='@/assets/curso/temas/tema1/fnd--.svg' alt='Background Image')
@@ -96,7 +96,7 @@
         .list__txt
           h3.mb-0 Tipos de evaluación
 
-      p Para cada fase del ciclo de vida del proyecto, se encuentran diferentes tipos de evaluación, cuyo fin es el medir la asignación de los recursos. En la literatura se pueden encontrar diferentes tipologías de evaluaciones del ciclo de vida de los proyectos, sin embargo se abordaron dos en este documento.
+      p Para cada fase del ciclo de vida del proyecto, se encuentran diferentes tipos de evaluación, cuyo fin es el medir la asignación de los recursos. En la literatura se pueden encontrar diferentes tipologías de evaluaciones del ciclo de vida de los proyectos, sin embargo, se abordaron dos en este documento.
 
 
     .row.justify-content-center.align-items-stretch(data-aos="fade-right")
@@ -104,10 +104,10 @@
         .row.justify-content-center.align-items-center.mb-5.fnd-3.fnd-3-1
           .col-lg-8.col-md-10
             h5.mb-0 La primera tipología está conformada por cuatro aspectos:
-            p.mb-0  Evaluación ex-ante: esta etapa evalúa la fase de preparación del proyecto, es decir, la problemática, las necesidades, la población objetivo.
-            p.mb-0  La evaluación intra: esta evaluación se efectúa en la fase de ejecución, aquí se evalúan las actividades en desarrollo.
-            p.mb-0  La evaluación post: esta fase corresponde con la finalización de la ejecución del proyecto, analizando los resultados obtenidos.
-            p.mb-0  La evaluación ex-post: esta fase se realiza después de haber terminado la ejecución del proyecto, se evalúan los resultados, centrándose en los impactos del proyecto.
+            p.mb-0  <b>Evaluación ex-ante:</b> esta etapa evalúa la fase de preparación del proyecto, es decir, la problemática, las necesidades, la población objetivo.
+            p.mb-0  <b>La evaluación intra:</b> esta evaluación se efectúa en la fase de ejecución, aquí se evalúan las actividades en desarrollo.
+            p.mb-0  <b>La evaluación post:</b> esta fase corresponde con la finalización de la ejecución del proyecto, analizando los resultados obtenidos.
+            p.mb-0  <b>La evaluación ex-post:</b> esta fase se realiza después de haber terminado la ejecución del proyecto, se evalúan los resultados, centrándose en los impactos del proyecto.
           .col-lg-4.col-md-10
             figure.fl-box-img
               img.img-297(src='@/assets/curso/temas/tema1/img-11-.png' alt='Background Image')
@@ -115,8 +115,8 @@
         .row.justify-content-center.align-items-center.mb-3.fnd-3.fnd-3-2
           .col-xl-7.col-lg-8.col-md-10
             h5 La segunda tipología es la propuesta por el Banco Interamericano de Desarrollo (BID), la cual considera dos tipos de evaluaciones:
-            p.mb-0 Formativa: se realiza en la etapa de preparación y ejecución del proyecto.
-            p Sumativa: se realiza después de terminado el proyecto.
+            p.mb-0 <b>Formativa:</b> se realiza en la etapa de preparación y ejecución del proyecto.
+            p <b>Sumativa:</b> se realiza después de terminado el proyecto.
           .col-xl-5.col-lg-4.col-md-10
             figure.fl-box-img             
               img.img-297(src='@/assets/curso/temas/tema1/img-12-.png' alt='Background Image')
@@ -142,9 +142,9 @@
         .row.justify-content-center.align-items-center
           .col-lg-12
             figure.mb-5
-              img.mb-3(src='@/assets/curso/temas/tema1/img-14.svg', alt='La figura 2 esquematiza el proceso de la evaluación financiera, la cual parte de un flujo de inversiones, ya sean de índole público o privado, pasando por una evaluación de indicadores financieros (VAN, TIR, R B/C), finalizando con el análisis respectivo, que permita tomar la decisión de llevar a cabo o no la ejecución del proyecto.')
+              img.mb-3(src='@/assets/curso/temas/tema1/img-14.svg', alt='La figura 2 esquematiza el proceso de la evaluación financiera, la cual parte de un flujo de inversiones, ya sean de índole, público o privado, pasando por una evaluación de indicadores financieros (VAN, TIR, R B/C), finalizando con el análisis respectivo, que permita tomar la decisión de llevar a cabo o no la ejecución del proyecto.')
               figcaption Nota. Elaboración propia.
-        p La figura 2 esquematiza el proceso de la evaluación financiera, la cual parte de un flujo de inversiones, ya sean de índole público o privado, pasando por una evaluación de indicadores financieros (VAN, TIR, R B/C), finalizando con el análisis respectivo, que permita tomar la decisión de llevar a cabo o no la ejecución del proyecto.
+        p La figura 2 esquematiza el proceso de la evaluación financiera, la cual parte de un flujo de inversiones, ya sean de índole, público o privado, pasando por una evaluación de indicadores financieros (VAN, TIR, R B/C), finalizando con el análisis respectivo, que permita tomar la decisión de llevar a cabo o no la ejecución del proyecto.
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .list.mb-3(data-aos="fade-down")
@@ -157,7 +157,7 @@
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-15.png', alt='')    
       .col-lg-8
-        p.mb-0 A la hora de hablar de indicadores financieros, es importante decir, que un indicador es aquella variable que intenta medir de forma cuantitativa o cualitativa características o comportamientos reales.
+        p.mb-0 A la hora de hablar de indicadores financieros, es importante decir, que un indicador es aquella variable que intenta medir de forma cuantitativa o cualitativa, características o comportamientos reales.
         p En el momento de analizar si es pertinente realizar o no un proyecto de inversión, es necesario utilizar ciertos indicadores financieros, los cuales permitirán establecer la viabilidad del proyecto. 
         p Para efectuar un correcto análisis de la situación financiera del proyecto, es necesario efectuar los tres indicadores propuestos, aunque estos de manera individual tienen sus pros y sus contras, analizados de manera conjunta permite tomar decisiones basadas en los resultados.
         p Los indicadores financieros que se utilizan con mayor frecuencia para la evaluación de proyectos de inversión son: Valor Presente Neto (VAN), Tasa Interna de Retorno (TIR) y la Relación Costo - Beneficio. 
@@ -275,7 +275,7 @@
           .row.justify-content-center.align-items-center
             .col-md-5.mb-4.mb-md-0
               h5 Paso 2
-              p Después de tener los datos en el archivo de Excel se procede a digitar igual seguido de la palabra VAN y se le da clic en insertar función, como lo ilustra la figura.
+              p Después de tener los datos en el archivo de Excel se procede a digitar igual seguido de la palabra VAN y se le da clic en insertar función, como se muestra en la siguiente figura:
             .col-md-7
               figure.p-4
                 img(src='@/assets/curso/temas/tema1/img-20.png')

@@ -71,7 +71,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-
+      {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -94,6 +98,24 @@ export default {
       },
     ],
   },
+  complementario: [
+    {
+      tema: 'Evaluación del proyecto',
+      referencia:
+        'Miranda, J. J. (2005). Gestión de Proyectos. Identificación - Formulación - Evaluación: Financiera, económica, Social, Ambiental. MM Editores.',
+      tipo: 'PDF',
+      link:
+        'https://students.aiu.edu/submissions/profiles/resources/onlineBook/m7r2W5_Gestion%20de%20Proyectos%20good.pdf ',
+    },
+    {
+      tema: 'Evaluación del proyecto',
+      referencia:
+        'Sosa Flores, M., Ribet Cuadot, M. y Hernández Pérez, F. A. (2007). Fundamentos teórico-metodológicos para la evaluación económico-financiera de proyectos de inversión. El Cid Editor S.A.',
+      tipo: 'Libro',
+      link:
+        'https://books.google.com.co/books/about/Fundamentos_te%C3%B3rico_metodol%C3%B3gicos_para.html?id=CmlxnQAACAAJ&redir_esc=y ',
+    },
+  ],
 
   glosario: [
     {
